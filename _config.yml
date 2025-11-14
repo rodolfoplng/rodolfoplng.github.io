@@ -1,17 +1,29 @@
 title: "Rodolfo Lomanto"
 description: "Portfólio de Análise de Dados, Automação e Aplicativos"
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-locale: "pt-BR"
+locale: pt-BR
 
-markdown: kramdown
+# escolher uma skin de visual
+minimal_mistakes_skin: "default"   # ou "air", "contrast", "dirt", etc.
+
+# navegar entre páginas
+navigation:
+  main:
+    - title: "Início"
+      url: /
+    - title: "Sobre"
+      url: /sobre/
+    - title: "Projetos"
+      url: /projetos/
 
 include:
   - _pages
+
 
 
