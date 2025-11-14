@@ -1,0 +1,23 @@
+title: "Rodolfo Lomanto"
+description: "Portfólio de Análise de Dados, Automação e Aplicativos"
+theme: "minimal-mistakes-jekyll"
+
+# Configuração para usar tema remoto
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Plugins recomendados
+plugins:
+  - jekyll-include-cache
+
+# Navegação
+include:
+  - _pages
+
+markdown: kramdown
+
+locale: "pt-BR"
+
+# Ativar breadcrumb (trilha de navegação)
+breadcrumb: true
+
+# Ativar toggle de idioma no futuro
