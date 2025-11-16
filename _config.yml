@@ -4,7 +4,6 @@ description: "Portfólio de Análise de Dados, Automação e Aplicativos"
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-include-cache
 
 # Aparência
