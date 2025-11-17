@@ -1,0 +1,27 @@
+{%- assign masthead_classes = "masthead" -%}
+<header class="{{ masthead_classes }}" role="banner">
+  <div class="masthead__inner-wrap">
+
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+
+        <!-- Título do site -->
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+        <!-- Aqui usamos o SEU arquivo nav.html -->
+        {% include nav.html %}
+
+        <!-- Botão de troca de idioma -->
+        <ul class="lang-switch">
+          {% if page.lang == "en" %}
+            <li><a href="/">PT 🇧🇷</a></li>
+          {% else %}
+            <li><a href="/en/">EN 🇺🇸</a></li>
+          {% endif %}
+        </ul>
+
+      </nav>
+    </div>
+
+  </div>
+</header>

@@ -1,20 +1,35 @@
-# Usar navegação customizada
-header_pages:
-
-
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
-
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default"
 
 plugins:
-- jekyll-include-cache
-- jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 title: "Rodolfo Lomanto"
 description: "Portfólio de Análise de Dados, Automação, BI e Criação de Aplicativos"
 
-# IDIOMA PADRÃO
-locale: "pt-BR"
+# Header usa menu dinâmico
+header:
+  nav: nav_pt
+
+defaults:
+  # PÁGINAS EM PORTUGUÊS
+  - scope:
+      path: ""
+    values:
+      lang: "pt-BR"
+      header:
+        nav: nav_pt
+      layout: single
+
+  # PÁGINAS EM INGLÊS
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+      header:
+        nav: nav_en
+      layout: single
 
 # MENU PT
 nav_pt:
@@ -42,13 +57,4 @@ nav_en:
   - title: "PT 🇧🇷"
     url: /
 
-# Navegação
-nav:
-  - title: "Início"
-    url: /
-  - title: "Sobre"
-    url: /sobre/
-  - title: "Projetos"
-    url: /projetos/
-  - title: "Contato"
-    url: /contato/
+
