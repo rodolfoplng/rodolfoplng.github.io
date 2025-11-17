@@ -14,9 +14,6 @@ permalink: /projetos/
 
 
 
-{% include feature\_row %}
-
-
 
 \## ETL e Automações
 

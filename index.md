@@ -1,19 +1,13 @@
 ---
-
 layout: splash
-
 title: "Rodolfo Lomanto"
-
+lang: "pt"
+permalink: /
 header:
-
-&nbsp; overlay\_color: "#000"
-
-&nbsp; overlay\_filter: "0.4"
-
-excerpt: "Analista de Dados • Automação • BI • AppSheet"
-
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+excerpt: "Análise de Dados • Automação • BI • AppSheet"
 ---
-
 
 
 \# Olá! 👋
