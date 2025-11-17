@@ -1,0 +1,11 @@
+{% if page.lang == "en" %}
+  {% assign nav_items = site.nav_en %}
+{% else %}
+  {% assign nav_items = site.nav_pt %}
+{% endif %}
+
+<ul class="nav">
+  {% for item in nav_items %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
