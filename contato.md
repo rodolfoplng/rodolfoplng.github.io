@@ -16,7 +16,7 @@ permalink: /contato/
 
 📧 \*\*Email:\*\* rodolfolomanto88@gmail.com  
 
-💼 \*\*LinkedIn:\*\* https://linkedin.com/in/rodolfoplng  
+💼 \*\*LinkedIn:\*\* https://www.linkedin.com/in/giuseppe-rodolfo-pimentel-lomanto-ba83b95a/  
 
 🐙 \*\*GitHub:\*\* https://github.com/rodolfoplng
 

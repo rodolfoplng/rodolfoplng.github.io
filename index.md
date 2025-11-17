@@ -6,31 +6,34 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-excerpt: "Análise de Dados • Automação • BI • AppSheet"
+excerpt: "Análise de Dados • Business Intelligence • Automação • ETL"
 ---
 
 
-\# Olá! 👋
+\Olá! 👋
+
+Sou especialista em estruturação e análise de dados, e criação, automação e otimização de processos, relatórios e Dashboards; com experiência em soluções aplicadas ao varejo e serviços, atuando nos setores de Operações, Comercial e CRM.
+
+\
+
+O que posso fazer por você?
 
 
+\- Análise de Dados para geração de insights
 
-Sou Analista de Dados especializado em:
+\- Dashboards (Power BI / Looker Studio) 
 
+\- Criação e automação de planilhas e relatórios
 
+\- Automação de processos (Python, n8n)
 
-\- ETL em Python  
+\- Criação e manutenção de Bancos de Dados
 
-\- Automação de Planilhas  
+\- Criação de aplicativos low-code (Google AppSheet)  
 
-\- Dashboards (Power BI / Excel)  
+\
 
-\- AppSheet  
-
-\- BI para Varejo e Restaurantes
-
-
-
-Explore meus projetos no menu acima.
+Explore meus projetos abaixo:
 
 
 

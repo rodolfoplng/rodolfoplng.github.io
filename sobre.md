@@ -10,33 +10,22 @@ permalink: /sobre/
 
 
 
-\# Sobre Mim
+\Sobre Mim
 
 
 
-Sou Analista de Dados com experiência em varejo, restaurantes e automações.
+Especialista em estruturação e análise de dados, criação, automação e otimização de processos, relatórios e Dashboards. 
 
-Trabalho com:
+Experiência em soluções de dados aplicadas ao varejo (supermercados) e serviços (restaurantes), atuando nos setores de Operações, Comercial e CRM.
 
+Habilidades em Python e suas principais bibliotecas (Pandas, PySpark,  NumPy, Matplotlib, Seaborn) e experiência com processos de ETL para manipulação e integração de dados.
 
+Análise exploratória e visualização de dados para a criação de relatórios que apoiam a tomada de decisões. 
 
-\- Python (Pandas, NumPy)
+Conhecimento de conceitos de criação de Bancos de Dados e SQL (PostgreSQL) para extração e manipulação de dados. 
 
-\- ETL
+Proficiência em Microsoft Excel, incluindo fórmulas complexas e tabelas dinâmicas.
 
-\- Google Sheets + Apps Script
-
-\- AppSheet
-
-\- Power BI
-
-\- n8n
-
-\- Docker
-
-
-
-Minha missão: transformar dados em decisões inteligentes.
-
+Proficiência em Microsoft Power BI (incluindo DAX e Power Query), para o desenvolvimento de dashboards interativos que impulsionam decisões estratégicas.
 
 
