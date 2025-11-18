@@ -1,0 +1,65 @@
+/* ------------------------------ */
+/* NAVBAR ESTILO DARK / MODERNO  */
+/* ------------------------------ */
+
+/* Fundo cinza escuro */
+.masthead {
+  background: #1e1e1e !important;
+  padding: 0.7rem 2rem !important;
+  position: sticky;      /* torna sticky */
+  top: 0;                /* fixa no topo */
+  z-index: 1000;         /* garante que fique acima do conteúdo */
+  box-shadow: 0 3px 10px rgba(0,0,0,0.35);  /* sombra */
+}
+
+/* Título / logo */
+.site-title {
+  color: #fff !important;
+  font-size: 1.5rem !important; /* maior */
+  font-weight: 600 !important;
+}
+
+/* Itens do menu */
+.masthead__menu-item a {
+  color: #fff !important;
+  font-size: 1.1rem !important; /* maior */
+  padding: 0.6rem 1rem !important;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+/* Hover bonito */
+.masthead__menu-item a:hover {
+  color: #00d0ff !important;
+  transform: translateY(-2px);
+}
+
+/* Organiza navbar em duas partes */
+.masthead__inner-wrap {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+/* Menu alinhado à direita */
+.masthead__menu {
+  display: flex !important;
+  gap: 1.5rem !important; /* espaço maior entre botões */
+}
+
+/* Ícones 🇧🇷🇺🇸 maiores */
+.language-switch a {
+  font-size: 1.4rem !important;
+  padding-left: 0.2rem !important;
+  padding-right: 0.2rem !important;
+}
+
+/* Cor ao passar o mouse no botão de idioma */
+.language-switch a:hover {
+  color: #00d0ff !important;
+}
+
+/* Remove margens automáticas do Minimal Mistakes */
+.page__hero--overlay + .masthead {
+  margin-bottom: 0 !important;
+}
+

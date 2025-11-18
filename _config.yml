@@ -37,8 +37,10 @@ nav_pt:
     url: /projetos/
   - title: "Contato"
     url: /contato/
-  - title: "EN 🇺🇸"
+  - title: "🇺🇸"
     url: /en/
+    class: language-switch
+
 
 # MENU EN
 nav_en:
@@ -50,8 +52,12 @@ nav_en:
     url: /en/projects/
   - title: "Contact"
     url: /en/contact/
-  - title: "PT 🇧🇷"
+  - title: "🇧🇷"
     url: /
+    class: language-switch
 
+# Arquivo CSS customizado
+sass:
+  custom_css: "/assets/css/custom.css"
 
 
