@@ -1,0 +1,53 @@
+/* NAVBAR — fundo cinza escuro */
+.masthead {
+  background: #1e1e1e !important;
+  padding: 0.7rem 2rem !important;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.35);
+}
+
+/* Título */
+.site-title {
+  color: #fff !important;
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+}
+
+/* Menu itens */
+.masthead__menu-item a {
+  color: #fff !important;
+  font-size: 1.1rem !important;
+  padding: 0.6rem 1rem !important;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.masthead__menu-item a:hover {
+  color: #00d0ff !important;
+  transform: translateY(-2px);
+}
+
+/* Alinhamento */
+.masthead__inner-wrap {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.masthead__menu {
+  display: flex !important;
+  gap: 1.5rem !important;
+}
+
+/* Botões de idioma */
+.language-switch a {
+  font-size: 1.4rem !important;
+}
+
+.language-switch a:hover {
+  color: #00d0ff !important;
+}
+
+}
+

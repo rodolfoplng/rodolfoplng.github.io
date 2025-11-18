@@ -58,6 +58,6 @@ nav_en:
 
 # Arquivo CSS customizado
 sass:
-  custom_css: "/assets/css/custom.css"
+  sass_dir: "assets/css"
 
 
