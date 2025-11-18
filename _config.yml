@@ -8,18 +8,16 @@ plugins:
 title: "Rodolfo Lomanto"
 description: "Portfólio de Análise de Dados, Automação e Business Intelligence"
 
-# Header usa menu dinâmico
-header:
-  nav: nav_pt
+# Menu padrão (Português)
+nav: nav_pt
 
+# Defaults para cada idioma
 defaults:
   # PÁGINAS EM PORTUGUÊS
   - scope:
       path: ""
     values:
       lang: "pt-BR"
-      header:
-        nav: nav_pt
       layout: single
 
   # PÁGINAS EM INGLÊS
@@ -27,11 +25,9 @@ defaults:
       path: "en"
     values:
       lang: "en"
-      header:
-        nav: nav_en
       layout: single
 
-# MENU PT
+# MENU PT-BR
 nav_pt:
   - title: "Início"
     url: /
@@ -56,5 +52,6 @@ nav_en:
     url: /en/contact/
   - title: "PT 🇧🇷"
     url: /
+
 
 

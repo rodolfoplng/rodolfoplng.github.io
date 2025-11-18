@@ -1,12 +1,9 @@
 ---
-layout: splash
+layout: home
 title: "Rodolfo Lomanto"
-lang: "pt"
-permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.4"
-excerpt: "Análise de Dados • Business Intelligence • Automação • ETL"
+lang: "pt-BR"
+author_profile: false
+nav: nav_pt
 ---
 
 
@@ -35,5 +32,16 @@ O que posso fazer por você?
 
 Explore meus projetos abaixo:
 
+## Projetos em Destaque
+
+{% include feature_row id="featured_projects" type="left" %}
+
+---
+
+## Entre em Contato {#contato}
+
+- **E-mail:** [rodolfo@gmail.com](mailto:rodolfo@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/giuseppe-rodolfo-pimentel-lomanto](https://www.linkedin.com/in/giuseppe-rodolfo-pimentel-lomanto-ba83b95a/)  
+- **GitHub:** [github.com/rodolfoplng](https://github.com/rodolfoplng)
 
 

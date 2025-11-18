@@ -1,0 +1,14 @@
+- title: "Dashboard Financeiro"
+  excerpt: "Dashboard de DRE com KPIs automatizados."
+  url: "/projetos/dashboard-financeiro/"
+  image_path: "/assets/images/projetos/dre.png"
+
+- title: "Automação de Planilhas"
+  excerpt: "Scripts Python que geram relatórios diários automaticamente."
+  url: "/projetos/automacao-planilhas/"
+  image_path: "/assets/images/projetos/automacao.png"
+
+- title: "AppSheet - Ficha Técnica"
+  excerpt: "Aplicativo com controle de insumos, custos e autorização."
+  url: "/projetos/appsheet-fichas/"
+  image_path: "/assets/images/projetos/appsheet.png"
